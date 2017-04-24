@@ -93,9 +93,11 @@ h2{
 .category{
     text-transform:none;
 }
-.index-content-items{
-  float: left;
-  width: 180px;
+.index-content-left{
+    float: left;
+    width: 180px;
+    min-height: 690px;
+
 }
 .features-items{
     float: right;
