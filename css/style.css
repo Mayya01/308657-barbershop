@@ -40,10 +40,9 @@ h2{
     display: inline-block;
 }
 .items-information{
-    width: 410px;
+    width: 430px;
     float:right;
-    margin-left: 500px;
-    margin-top: 0;
+
 }
 .items-image{
     width: 500px;
@@ -54,8 +53,60 @@ h2{
     width: 140px;
     height: 149px;
     float: left;
+    margin-top: 21px;
 }
 .items-image8, .items-image9{
-    margin-left: 21px;
+    margin-left: 20px;
 }
+.main-footer{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.footer-contacts{
+    min-height: 90px;
+    float: left;
+    width: 320px;
+    margin-right: 60px;
+}
+.footer-social{
+    min-height: 90px;
+    float: left;
+    width: 180px;
+}
+.footer-copyright{
+    min-height: 90px;
+    float: right;
+    width: 180px;
+}
+.features-item1, .features-item2, .features-item3, .features-item4, .features-item5, .features-item6{
+    float: left;
+    width:220px;
+    min-height: 286px;
+    margin-bottom: 22px;
+}
+.features-item2, .features-item3, .features-item5, .features-item6{
+    margin-left: 20px;
+}
+.category, .item-name{
+    font-size: 14px;
+}
+.category{
+    text-transform:none;
+}
+.index-content-items{
+  float: left;
+  width: 180px;
+}
+.features-items{
+    float: right;
+    width: 730px;
+    background-color: antiquewhite;
+}
+
+.page-list li{
+  display: inline-block;
+}
+
+
+
 
